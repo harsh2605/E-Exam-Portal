@@ -1,0 +1,57 @@
+body{
+    background-image: url("front_page.jpg");
+}
+#form-prompt{
+    height: 40px;
+    border: 2px solid black;
+    width: 40vw;
+    padding: 50px;
+    border-radius: 30px;
+    font-size: large;
+    font-weight: bold;
+}
+#forms
+{
+    margin-top: 10vh;
+    padding-top: 20px;
+}
+.outerliner{
+    width: 60vw;
+    height: 60vh;
+    background-color: cyan;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px grey;
+}
+.radio_buttons{
+    margin-top: 80px;
+}
+
+.op1{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(17, 30, 66);
+    color: white;
+    font-size: 15px;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 20px;
+    border: 2px solid black;
+}
+.submit{
+    margin-top: 30vh;
+    background-color: black;
+    color: white;
+   width: 110px;
+   height: 60px;
+    border-radius: 10px;
+    font-size: large;
+    
+}
+button a{
+    text-decoration: none;
+    color: white;
+    
+}
+button{
+    cursor: pointer;
+}
